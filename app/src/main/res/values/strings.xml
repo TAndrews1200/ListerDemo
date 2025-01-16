@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListerDemo</string>
+    <string name="empty_list">The list is empty</string>
+    <string name="empty_name">Name Unavailable</string>
+</resources>

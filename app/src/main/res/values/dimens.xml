@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--dp list-->
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="plate_label_size">50dp</dimen>
+    <dimen name="plate_rounding">14dp</dimen>
+    <dimen name="spinner_size">100dp</dimen>
+    <dimen name="spinner_stroke_width">8dp</dimen>
+</resources>
